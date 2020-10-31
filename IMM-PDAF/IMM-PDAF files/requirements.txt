@@ -1,0 +1,7 @@
+singledispatchmethod==1.0
+scipy==1.5.2
+dataclasses==0.7
+numpy==1.19.1
+typing_extensions==3.7.4.3
+matplotlib==3.3.1
+ipython==7.18.1
